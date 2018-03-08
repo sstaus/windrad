@@ -25,9 +25,6 @@ elem5:
   headline: Einlagenhöhe
   text: Mind. 10 Euro bis max. 10000 Euro
 
-elem6:
-  headline: Einlagenhöhe
-  text: Mind. 10 Euro bis max. 10000 Euro
 
 elem7:
   headline: Status
