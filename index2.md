@@ -24,18 +24,19 @@ card3:
 testimonial1:
   vorname: "Heinz"
   name: "Müller"
-  text: "Ich freue mich sehr über die Möglichkeit endlich auch einen Vorteil von den Windrädern die bei mir in der Nachbarschaft stehen haben zu können."
+  text: "Ich freue mich sehr über die Möglichkeit endlich auch Anteile an Windrädern in meiner Nachbarschaft zu erwerben!"
 
 
 testimonial2:
-  vorname: "Heinz"
-  name: "Müller"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id ipsam, non ut molestiae rerum praesentium repellat debitis iure reiciendis, eius culpa beatae commodi facere ad numquam. Quisquam dignissimos similique sunt iure fugit, omnis vel cupiditate repellendus magni nihil molestiae quam, delectus consequuntur blanditiis modi nostrum?"
+  vorname: "Martina"
+  name: "Meierle"
+  text: "Bis jetzt musste ich Anteile immer 5 oder mehr Jahre halten. Wenn man plötzlich Bares braucht, dann kommt man nicht an sein Geld ran. Hier kann ich meine Anteile jederzeit verkaufen. Das ist echt klasse!"
+
 
 testimonial3:
-  vorname: "Heinz"
-  name: "Müller"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id ipsam, non ut molestiae rerum praesentium repellat debitis iure reiciendis, eius culpa beatae commodi facere ad numquam. Quisquam dignissimos similique sunt iure fugit, omnis vel cupiditate repellendus magni nihil molestiae quam, delectus consequuntur blanditiis modi nostrum?"
+  vorname: "Kevin"
+  name: "Schulz"
+  text: "Echt toll, dass ich bereits mit 10 EUR einen Anteil an einem Windrad kaufen kann. Das ist wirklich sehr kundenfreundlich, gerade für Kleinsparer!"
 
 
 facts:
