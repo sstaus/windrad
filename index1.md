@@ -13,7 +13,7 @@ card1:
 
 card2:
   header: "Laufzeit 5 Jahre"
-  text: "Die Anlagen haben eine feste Laufzeit von 5 Jahren."
+  text: "Ihre Geldanlage hat eine feste Laufzeit von 5 Jahren."
   button: "Mehr Erfahren"
 
 card3:
@@ -24,24 +24,24 @@ card3:
 testimonial1:
   vorname: "Heinz"
   name: "Müller"
-  text: "Ich freue mich sehr über die Möglichkeit endlich auch einen Vorteil von den Windrädern die bei mir in der Nachbarschaft stehen haben zu können."
+  text: "Ich freue mich sehr über die Möglichkeit, mich an Windrädern in der Nachbarschaft zu beteiligen."
 
 
 testimonial2:
-  vorname: "Heinz"
-  name: "Müller"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id ipsam, non ut molestiae rerum praesentium repellat debitis iure reiciendis, eius culpa beatae commodi facere ad numquam. Quisquam dignissimos similique sunt iure fugit, omnis vel cupiditate repellendus magni nihil molestiae quam, delectus consequuntur blanditiis modi nostrum?"
+  vorname: "Martina"
+  name: "Heierle"
+  text: "Bei der aktuellen Zinssituation bekommt man hier eine tolle Verzinsung. Da ist es egal, wenn mein Geld 5 Jahre fest angelegt ist, solange die Zinszahlungen regelmäßig kommen."
 
 testimonial3:
-  vorname: "Heinz"
-  name: "Müller"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id ipsam, non ut molestiae rerum praesentium repellat debitis iure reiciendis, eius culpa beatae commodi facere ad numquam. Quisquam dignissimos similique sunt iure fugit, omnis vel cupiditate repellendus magni nihil molestiae quam, delectus consequuntur blanditiis modi nostrum?"
+  vorname: "Kevin"
+  name: "Schulz"
+  text: "Echt toll, dass ich bereits ab 500 EUR einen Anteil an einem Windrad kaufen kann. Das ist wirklich sehr kundenfreundlich!"
 
 
 facts:
   fact1:
     number: 530
-    text: "Community"
+    text: "Personen haben bereits Anteile erworben"
   fact2:
     number: 2
     text: "Prozent Rendite im Jahr"
